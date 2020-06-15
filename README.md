@@ -12,8 +12,9 @@ Run this command ti compile
 ```bash
 g++ -o puyo.exe Puyo.cpp -lncurses
 ```
-## License
-MIT
 
 ## Auther
-hayapo(Nagoya Univ. B3)
+hayapo(Nagoya Univ.)
+
+## License
+MIT
