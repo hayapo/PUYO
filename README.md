@@ -8,7 +8,7 @@
 git clone https://github.com/hayapo/PUYO
 ```
 ## Usage
-Run this command t compile
+Run this command to compile
 ```bash
 g++ -o puyo.exe Puyo.cpp -lncurses
 ```
