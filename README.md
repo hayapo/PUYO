@@ -3,6 +3,12 @@
 
 # Puyopuyo
 
+## Description
+C++で作ったぷよぷよです
+なるべく、オブジェクト指向を意識して作りました
+スコア機能もあります。
+
+
 ## How to clone
 ```bash
 git clone https://github.com/hayapo/PUYO
@@ -15,6 +21,3 @@ g++ -o puyo.exe Puyo.cpp -lncurses
 
 ## Auther
 hayapo(Nagoya Univ.)
-
-## License
-MIT
